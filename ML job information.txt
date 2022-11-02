@@ -1,0 +1,9 @@
+Designing and developing machine learning and deep learning systems
+Running machine learning tests and experiments
+Implementing appropriate ML algorithms
+Proficiency with a deep learning framework such as TensorFlow/Keras/PyTorch
+Proficiency with Python and basic libraries for machine learning such as scikit-learn and pandas
+Expertise in visualizing and manipulating big datasets
+Proficiency with OpenCV
+Familiarity with Linux
+Ability to select hardware to run an ML model with the required latency
